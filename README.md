@@ -25,8 +25,8 @@ Basic JavaScript is used to make the game functional.
 ## Pages
 
 - [Game](https://jefdeniel.github.io/Start-to-code-game/).
-- [Tutorial](https://jefdeniel.github.io/Start-to-code-game/tutorial/).
-
+- [Tutorial](https://jefdeniel.github.io/Start-to-code-game/tutorial)
+- 
 ## Credits
 
 Steven Aelbrecht en Jef De Niel
