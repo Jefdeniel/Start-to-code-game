@@ -22,6 +22,11 @@ The app is built from the most straightforward structure a static website can ha
 
 Basic JavaScript is used to make the game functional.
 
+## Pages
+
+- [Game](https://jefdeniel.github.io/Start-to-code-game/).
+- [Tutorial](https://jefdeniel.github.io/Start-to-code-game/tutorial/).
+
 ## Credits
 
 Steven Aelbrecht en Jef De Niel
